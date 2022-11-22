@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+    height: 100%;
+    color: white;
+}
+
+.profile ul{
+    list-style-type: none;
+   
+
+}
+.profile li {
+  margin-top: 30px;
+  
+}
+.btn{
+    padding-left: 40px;
+    border-radius: 100%;
+    color: blue;
+}
+.mainDiv{
+    display: flex;
+    
+}
+.icon{
+ margin-left: 40px;
+}
+.pic{
+    background-image: url("images/WhatsApp\ Image\ 2022-11-08\ at\ 14.40.12.jpeg");
+    background-size: auto;
+    background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150px;
+  width: 400px;
+  box-sizing: border-box;
+  float: inline;
+}
+
+.center img {
+  margin-top: 60px;
+  margin-left: 30px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+.username{
+  margin-left: 10px;
+}
+.username h3 {
+  margin-top: 50px;
+}
+
+.vl {
+    border-left: 1px solid gray;
+    height: 550px;
+    position: absolute;
+    left: 30%;
+    top: 0;
+
+  }
+  .pro{
+    display: flex;
+  }
+  .btn2{
+    margin-top: 10px;
+    margin-right: 70px;
+    
+  }
